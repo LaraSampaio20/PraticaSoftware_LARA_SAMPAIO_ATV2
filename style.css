@@ -1,0 +1,45 @@
+.corpo {
+    background-color: burlywood;
+}
+
+h2 {
+    color:brown;
+    font-size: 30px;
+ 
+}
+
+table {
+    background-color: blueviolet;
+    width: 550px;
+    height: 250px;
+    text-align:left;
+    color: white;
+    border-color: black;
+    padding-left: 1px;
+    padding-right: 1px;
+    
+    
+}
+
+.cor1 {
+    font-size: 24px;
+    text-align: center;
+}
+
+.cor2 {
+  /** background-color: rgb(168, 99, 224) **/
+    font-size: 20px;
+}
+.cor3 {
+    font-size: 20px;
+}
+
+.cor4 {
+   /** background-color: rgb(168, 99, 224); **/
+    font-size: 20px;
+}
+
+
+
+
+
